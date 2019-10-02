@@ -1,1 +1,2 @@
 compare-integers-by-pthon
+A simple program written in Python language that compare 3 integers insert by user and the output will be smallest and largest number. This program fully written by Muhammad Razzaq Fitri.
